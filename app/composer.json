@@ -1,0 +1,11 @@
+{
+  "name": "stvbyr/php-docker",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Stvbyr\\PhpDocker\\": "src/"
+    }
+  },
+  "require": {}
+}
